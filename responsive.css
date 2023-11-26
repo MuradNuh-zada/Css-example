@@ -1,0 +1,149 @@
+@media screen and (max-width:576px) {
+    .title-head {
+        font-size: 7px;
+    }
+
+    .title-end {
+        font-size: 17px;
+    }
+
+    img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .client-name {
+        font-size: 16px;
+    }
+
+    span {
+        font-size: 12px;
+    }
+
+    p {
+        font-size: 10px;
+    }
+    button{
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width:576px) {
+    .title-head {
+        font-size: 9px;
+    }
+
+    .title-end {
+        font-size: 20px;
+    }
+
+    img {
+        width: 45px;
+        height: 45px;
+    }
+
+    .client-name {
+        font-size: 17px;
+    }
+
+    span {
+        font-size: 13px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+    button{
+        font-size: 13px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .title-head {
+        font-size: 11px;
+    }
+
+    .title-end {
+        font-size: 25px;
+    }
+
+    img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .client-name {
+        font-size: 18px;
+    }
+
+    span {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+    button{
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .title-head {
+        font-size: 13px;
+    }
+
+    .title-end {
+        font-size: 28px;
+    }
+
+    img {
+        width: 55px;
+        height: 55px;
+    }
+
+    .client-name {
+        font-size: 19px;
+    }
+
+    span {
+        font-size: 15px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+    button{
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .title-head {
+        font-size: 15px;
+    }
+
+    .title-end {
+        font-size: 35px;
+    }
+
+    img {
+        width: 65px;
+        height: 65px;
+    }
+
+    .client-name {
+        font-size: 20px;
+    }
+
+    span {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 16px;
+    }
+    button{
+        font-size: 16px;
+    }
+}
