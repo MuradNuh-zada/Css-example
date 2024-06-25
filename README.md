@@ -1,2 +1,2 @@
-# CSS-Task-17
-CSS Task 17
+# CSS example
+https://css-task17.vercel.app/
